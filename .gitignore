@@ -3,3 +3,6 @@ Include
 Scripts
 tcl
 __pycache__
+hosts.txt
+commands.txt
+pip-selfcheck.json
